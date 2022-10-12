@@ -86,15 +86,15 @@ Now, lets check that our model is being registered properly or not. First lets e
 
 * The django. urls module within the Django project code base. path is used for routing URLs to the appropriate view functions within a Django application using the URL dispatcher.A request in Django first comes to urls.py and then goes to the matching function in views.py.
 
-![]https://github.com/Subinasunil/Ebook/blob/master/images/Screenshot1.png)
+![](https://github.com/Subinasunil/Ebook/blob/master/images/Screenshot1.png)
 
-![]https://github.com/Subinasunil/Ebook/blob/master/images/Screenshot2.png)
+![](https://github.com/Subinasunil/Ebook/blob/master/images/Screenshot2.png)
 
-![]https://github.com/Subinasunil/Ebook/blob/master/images/Screenshot3.png)
+![](https://github.com/Subinasunil/Ebook/blob/master/images/Screenshot3.png)
 
-![]https://github.com/Subinasunil/Ebook/blob/master/images/Screenshot4.png)
+![](https://github.com/Subinasunil/Ebook/blob/master/images/Screenshot4.png)
 
-![]https://github.com/Subinasunil/Ebook/blob/master/images/Screenshot5.png)
+![](https://github.com/Subinasunil/Ebook/blob/master/images/Screenshot5.png)
 
 
 
