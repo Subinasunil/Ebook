@@ -24,7 +24,7 @@
 
 * Delete the added books
 
-*retrieve a list of books associate with an author,genre,title
+* retrieve a list of books associate with an author,genre,title
 
 
 ## EBook_App
@@ -84,7 +84,7 @@ Now, lets check that our model is being registered properly or not. First lets e
 
 ### urls
 
-*The django. urls module within the Django project code base. path is used for routing URLs to the appropriate view functions within a Django application using the URL dispatcher.A request in Django first comes to urls.py and then goes to the matching function in views.py.
+* The django. urls module within the Django project code base. path is used for routing URLs to the appropriate view functions within a Django application using the URL dispatcher.A request in Django first comes to urls.py and then goes to the matching function in views.py.
 
 
 
